@@ -89,6 +89,8 @@ A criação visual foi toda realizada no código, com figuras básicas da biblio
 
 Não foram utilizados arquivos de áudio ou de imagem de fontes externas.
 
+O design do projeto foi feito com auxílio de inteligência artificial para revisar e refinar ideias. Mas aa lógica, o conceito, o design, a narrativa, o funcionamento e o próprio código são frutos do trabalho do desenvolvedor.
+
 Reflexões Finais
 
 ECOGENESIS vai além de um jogo: é um chamado à reflexão. Assim como no jogo, na vida real é preciso agir logo, cuidar da natureza, proteger as florestas, os rios e a atmosfera.
